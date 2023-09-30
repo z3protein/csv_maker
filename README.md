@@ -69,4 +69,4 @@ MVPリリース時に作っていたい機能
 　pdfkitなどを使用する予定です。(要調査)  
 
 ## 画面遷移図 Figmaのリンク  
-https://www.figma.com/files/project/109612416  
+https://www.figma.com/files/project/109612416
