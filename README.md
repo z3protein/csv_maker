@@ -70,3 +70,6 @@ MVPリリース時に作っていたい機能
 
 ## 画面遷移図 Figmaのリンク  
 https://www.figma.com/file/ZYuYwp97DP2jDBQx8hbIDR/csv_maker-(Copy)?type=whiteboard&node-id=0%3A1&t=SeaISk9wlVU5hlB4-1  
+
+## ER図  
+![Alt text](image.png)
